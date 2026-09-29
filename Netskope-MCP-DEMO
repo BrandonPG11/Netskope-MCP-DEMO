@@ -1,0 +1,15 @@
+{
+  "name": "netskope-mcp-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.2"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
